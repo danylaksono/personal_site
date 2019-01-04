@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "3D Geospatial Information System",
+    "Geospatial Big data and Mining",
+    "WebGIS Development",
+    "Structure from Motion Photogrammetry"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M.Eng in Geomatics Engineering"
+  institution = "Universitas Gadjah Mada"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Bachelor in Geodetic Engineering"
+  institution = "Universitas Gadjah Mada"
+  year = 2011
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a lecturer and researcher in [Department of Geodetic Engineering](http://geodesi.ugm.ac.id), [Universitas Gadjah Mada Yogyakarta](www.ugm.id). My research interests are in the field of 3D Geospatial Information, including 3D modeling using structure from motion, analysis and visualization. I also work on gamification and crowdsourcing 3D geospatial data using location-based augmented reality. As a side project I also utilize spatial data mining from social media data to obtain information for behavioral studies, espescially those related to geospatial visualization and insights.
+ 
+I also have special interest in NoSQL database for geospatial apllication, and thus I often develop a webGIS app using MEAN framework (MongoDB, ExpressJS, Angular and NodeJS), as well as hybrid framework based on Angular (Ionic). I love opensource and would promote the use of open source software whenevere available as alternative to paid ones
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I believe that the future of Geomatics would be large and larger scale of geospatial data: whether on data acquisition, analysis and visualization (imagine a 1:1 3D realtime model of the real-world!). Thus I am eager to the discussion on Digital Twin technologies from geospatial point-of-view. Should you find my papers or articles interesting, I'd love to have a discussion :)
+
+
